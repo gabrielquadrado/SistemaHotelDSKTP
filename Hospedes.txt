@@ -1,0 +1,10 @@
+Gabriel;19;Masculino;Ocupado;
+Raquel;53;Feminino;Reservado;
+Paulo;48;Masculino;Reservado;
+Livia;15;Feminino;Reservado;
+Maria;16;Feminino;Ocupado;
+Pedro;19;Masculino;Ocupado;
+teste;3;Masculino;Ocupado;
+teste4;4;Feminino;Ocupado;
+Pedro;19;Masculino;Ocupado;
+8;8;Masculino;Ocupado;
